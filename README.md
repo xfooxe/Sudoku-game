@@ -1,5 +1,5 @@
 # Sudoku-game
-solve Sudoku game it by applying Standard backtracking, Maintaining Arc- Consistency algorithm, or Forward Checking algorithm.
+solve Sudoku game by applying Standard backtracking, Maintaining Arc- Consistency algorithm, or Forward Checking algorithm.
 
 Run test.py file to start the solving the game 
 
